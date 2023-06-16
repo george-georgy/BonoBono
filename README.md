@@ -8,7 +8,7 @@ A recipe finder app that shows a list of popular categories, and each category s
 * Clean architecture is also referred to as Onion architecture as it has different layers(Presentation, Domain, Data).
 
 <p>
-<img src="https://github.com/george-georgy/BonoBono/blob/main/Screenshots/Screenshot_00.png"/>
+<img src="https://github.com/george-georgy/BonoBono/blob/main/Screenshots/Screenshot_00.jpg"/>
 </p>
 
 * Presentation: A layer that interacts with the view(UI) , in Android like Activities, Fragments, ViewModel.
