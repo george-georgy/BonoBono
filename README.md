@@ -22,17 +22,20 @@ A recipe finder app that shows a list of popular categories, and each category s
 
 ## Architecture Data Flow 📐
 <p>
-<img src="https://github.com/george-georgy/BonoBono/blob/main/Screenshoots/Screenshot_0.png"/>
+<img src="https://github.com/george-georgy/BonoBono/blob/main/Screenshots/Screenshot_0.png"/>
 </p>
 
 
 ## Screenshots
 
 <p>
-<img src="https://github.com/george-georgy/BonoBono/blob/main/Screenshoots/Screenshot_0.png" height=450 width=230 />
-<img src="https://github.com/george-georgy/BonoBono /blob/main/Screenshoots/Screenshot_1.png" height=450 width=230 />
-<img src="https://github.com/george-georgy/BonoBono /blob/main/Screenshoots/Screenshot_2.png" height=450 width=230 />
-<img src="https://github.com/george-georgy/BonoBono /blob/main/Screenshoots/Screenshot_3.png" height=450 width=230 />
+<img src="https://github.com/george-georgy/BonoBono/blob/main/Screenshots/Screenshot_1.png" height=450 width=230 />
+<img src="https://github.com/george-georgy/BonoBono/blob/main/Screenshots/Screenshot_2.png" height=450 width=230 />
+<img src="https://github.com/george-georgy/BonoBono/blob/main/Screenshots/Screenshot_3.png" height=450 width=230 />
+<img src="https://github.com/george-georgy/BonoBono/blob/main/Screenshots/Screenshot_4.png" height=450 width=230 />
+<img src="https://github.com/george-georgy/BonoBono/blob/main/Screenshots/Screenshot_5.png" height=450 width=230 />
+<img src="https://github.com/george-georgy/BonoBono/blob/main/Screenshots/Screenshot_6.png" height=450 width=230 />
+
 </p>
 
 ## Tech-stack 🛠
