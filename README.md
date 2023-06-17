@@ -12,8 +12,8 @@ A recipe finder app that shows a list of popular categories, and each category s
 </p>
 
 * Presentation: A layer that interacts with the view(UI) , in Android like Activities, Fragments, ViewModel.
-  Domain: Contains entities and bussiness logic, The business logic put into so called "use case".usecases like fetching data from a network or reading data from database.
-  Data: It would implement the interface exposed by domain layer and handle all incoming data (accessing a DB or API).
+* Domain: Contains entities and bussiness logic, The business logic put into so called "use case".usecases like fetching data from a network or reading data from database.
+* Data: It would implement the interface exposed by domain layer and handle all incoming data (accessing a DB or API).
 
 * Why Clean Architecture?
   Separation of Concerns — Separation of code in different modules or sections with specific responsibilities making it easier for maintenance and further modification.
